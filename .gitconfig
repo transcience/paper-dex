@@ -1,2 +1,3 @@
 git config user.name "TranScience Staff"
 git config user.email staff@transcience-project.org
+git commit --amend --author="TranScience Staff <staff@transcience-project.org>"
